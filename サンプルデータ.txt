@@ -1,0 +1,25 @@
+serepo
+Guten Tag.	こんにちは。	あいさつする, 昼, ４格
+Ich heiße Müller.	私はミュラーといいます。	名前, 自己紹介
+Mein Name ist Kobayashi.	私の名前は小林です。	自己紹介, 名前, sein
+Entschuldigung, sind Sie Herr Meier?	すみません，あなたはマイヤー氏ですか。	名前,　同定, 疑問文,　許可,　sein, 男性, 話しかける
+Ja, das bin ich.	ええ，私です。	同定, ja, sein
+Ich bin Klaus Meyer.	同定, sein
+Entschuldigung, sind Sie Frau Meier?	すみません，あなたはマイヤー婦人ですか。	名前,　同定, 疑問文,　許可,　sein, 女性, 話しかける
+Nein, ich heiße Müller.	いいえ，私はミュラーといいます。	否定，名前, 自己紹介
+
+cds
+自己紹介をすることができる	自己紹介
+名前を言うことができる	名前, 自己紹介, 同定
+人物を同定することができる	同定, 人物, 男性, 女性
+許可を求めることができる	許可
+
+LBbase
+Lektion 1	1-6
+名前，出身，住所，あいさつ	1-6
+規則動詞の現在人称変化（１・２人称）	1-6
+不規則動詞seinの現在人称変化	1-6
+前置詞in, aus	1-6
+副詞auch	1-6
+疑問文	1-6
+疑問詞wie, wo, woher	1-6
