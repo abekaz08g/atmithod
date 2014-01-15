@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<atmithod>
+	<database root="localhost" port="27017" dbname="atmithod" />
+	<lbbase name="lbbase" />
+	<cds name="cds" />
+	<serepo name="serepo" />
+</atmithod>
