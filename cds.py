@@ -20,7 +20,7 @@ class candos:
     """
     can-do statements にアクセスするためのオブジェクトを生成
     """
-    def __init__(self, colname):
+    def __init__(self):
         """
         can-do statements の集合を格納するためのコレクションcolnameを指定してコネクションを開く
         """
